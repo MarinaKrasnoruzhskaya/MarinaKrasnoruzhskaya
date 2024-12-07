@@ -1,5 +1,4 @@
 ## 👋 Hi there! I’m Marina 
 
-- 🌱 I’m currently learning python in Skypro
-- 🔭 I'm currently working on my thesis project
+- 🌱 I’m currently learning python
 - 📫 How to reach me: krasnoruzhskayamarina@yandex.ru
